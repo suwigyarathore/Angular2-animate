@@ -1,4 +1,4 @@
-# Angular QuickStart Source
+# Angular2 Animation API
 [![Build Status][travis-badge]][travis-badge-url]
 
 This project depicts usage of new Animation API in Angular2
